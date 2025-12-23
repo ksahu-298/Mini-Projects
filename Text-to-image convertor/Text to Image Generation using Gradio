@@ -1,2 +1,0 @@
-This project demonstrates a Text-to-Image Generation application built using Python, Diffusion-based models, and Gradio.
-Users can enter a text prompt, and the model generates an image based on the given description through an interactive web interface.
